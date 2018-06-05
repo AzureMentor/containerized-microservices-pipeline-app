@@ -1,4 +1,5 @@
 # Containerized Microservices Pipeline
+[![Build Status](https://travis-ci.org/Microsoft/containerized-microservices-pipeline-app.svg?branch=master)](https://travis-ci.org/Microsoft/containerized-microservices-pipeline-app/)
 
 Containerized Microservices Pipeline app built on Angular
 
